@@ -4,7 +4,7 @@ Setup for ssh-key in windows
 On cmd running as admin type:
 > ssh-keygen
 
-When asked for the file name us:
+When asked for the file name use:
 > id_rsa
 
 Find value of ssh-key at:
