@@ -8,7 +8,9 @@ When asked for the file name use:
 > id_rsa
 
 Find value of ssh-key at:
+```
 C:\Users\{uer-name}\.ssh\id_rsa.pub
+```
 
 Paste full value within Github.com > profile > settings > add ssh-key
 
